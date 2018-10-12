@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypto Tracker/Converter</string>
+    <string name="admob_interstetial_ad" translatable="false">ca-app-pub-3517746418699749/8344708392</string>
+    <string name="waitt">कृपया प्रतीक्षा करें ....</string>
+    <string name="click_text">प्रारंभ</string>
+    <string name="retriving">नवीनतम बीटीसी / ईटीएच विनिमय मूल्यों को पुनः प्राप्त करना</string>
+    <string name="exitApplication">बाहर निकलें ऐप</string>
+    <string name="exit">बाहर निकलें ऐप</string>
+    <string name="just_now">अभी</string>
+    <string name="share">शेयर</string>
+    <string name="exit_app">बाहर निकलें ऐप</string>
+    <string name="bitcoin_ethereum_news">बिटकोइन / एथेरियम समाचार</string>
+    <string name="convert">बदलना</string>
+    <string name="to">के लिए</string>
+    <string name="from">से</string>
+    <string name="your_connection_to_the_wireless_network_is_turned_off_restore_your_connections_and_swipe_down_to_refresh">चालू करें अपने डेटा नेटवर्क और सुची | ताज़ा करे</string>
+    <string name="no_connection_found">कोई संबंध नहीं है पाया</string>
+    <string name="no">नहीं</string>
+    <string name="swipe_down">नीचे स्वाइप करें ताज़ा करने के लिए</string>
+
+
+    <string name="retryy">पुन: प्रयास करें</string>
+</resources>

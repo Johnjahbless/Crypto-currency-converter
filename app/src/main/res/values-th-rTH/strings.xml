@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admob_interstetial_ad" translatable="false">ca-app-pub-3517746418699749/8344708392</string>
+
+    <string name="app_name">Crypto Tracker/Converter</string>
+    <string name="click_text">เริ่มต้น</string>
+    <string name="retriving">กำลังเรียกราคาล่าสุดของ Exchange</string>
+    <string name="waitt" >โปรดรอ ....</string>
+    <string name="exitApplication">ออกจากแอพพลิเคชั่น?</string>
+    <string name="exit">ทางออก</string>
+    <string name="swipe_down">กวาดลงเพื่อรีเฟรช</string>
+    <string name="no">กว่า</string>
+    <string name="no_connection_found">ไม่พบการเชื่อมต่อ</string>
+    <string name="your_connection_to_the_wireless_network_is_turned_off_restore_your_connections_and_swipe_down_to_refresh">การเชื่อมต่อกับเครือข่ายไร้สายถูกปิดอยู่ กู้คืนการเชื่อมต่อของคุณและปัดลงเพื่อรีเฟรช</string>
+    <string name="just_now">แค่นี้</string>
+    <string name="share">หุ้น</string>
+    <string name="exit_app">ออกจากแอป</string>
+    <string name="bitcoin_ethereum_news">ข่าว Bitcoin / Ethereum</string>
+    <string name="convert">แปลง</string>
+    <string name="from">จาก</string>
+    <string name="to">มัน</string>
+
+
+    <string name="retryy">ลองใหม่อีกครั้ง</string>
+</resources>

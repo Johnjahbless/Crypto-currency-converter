@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admob_interstetial_ad" translatable="false">ca-app-pub-3517746418699749/8344708392</string>
+
+    <string name="app_name">Crypto Tracker/Converter</string>
+    <string name="click_text">Начало</string>
+    <string name="retriving">Получение последних обменных курсов</string>
+    <string name="exitApplication">Exit App</string>
+    <string name="exit">Exit App</string>
+    <string name="waitt">Пожалуйста, подождите ...</string>
+    <string name="just_now">Прямо сейчас</string>
+    <string name="share">Поделиться</string>
+    <string name="exit_app">Exit App</string>
+    <string name="bitcoin_ethereum_news">Bitcoin / ethereum Новости</string>
+    <string name="convert">Конвертировать</string>
+    <string name="to">На</string>
+    <string name="from">От</string>
+    <string name="your_connection_to_the_wireless_network_is_turned_off_restore_your_connections_and_swipe_down_to_refresh">Пожалуйста, включите ваши данные сети и обновить</string>
+    <string name="no_connection_found">Никакой связи найдено</string>
+    <string name="no">Нет</string>
+    <string name="swipe_down">Проведите вниз, чтобы обновить</string>
+
+
+    <string name="retryy">снова пробовать</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Crypto Tracker/Converter</string>
+    <string name="click_text">START</string>
+    <string name="admob_interstetial_ad" translatable="false">ca-app-pub-3517746418699749/8344708392</string>
+
+    <string name="retriving">Retrieving Latest Exchange Price</string>
+    <string name="exitApplication">Exit Application?</string>
+    <string name="exit">Exit</string>
+    <string name="swipe_down">Swipe down to Refresh</string>
+    <string name="no">No</string>
+    <string name="no_connection_found">No Connection Found</string>
+    <string name="your_connection_to_the_wireless_network_is_turned_off_restore_your_connections_and_swipe_down_to_refresh">Your connection to the wireless network is turned off. Restore your connections and swipe down to refresh</string>
+    <string name="btc_usd" translatable="false">BTC - USD</string>
+    <string name="just_now">Just Now</string>
+    <string name="eth_usd" translatable="false">ETH - USD</string>
+    <string name="share">Share</string>
+    <string name="exit_app">Exit App</string>
+    <string name="bitcoin_ethereum_news">Bitcoin/Ethereum News</string>
+    <string name="convert">Convert</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="waitt">Please wait......</string>
+
+
+    <string name="retryy">Retry</string>
+</resources>

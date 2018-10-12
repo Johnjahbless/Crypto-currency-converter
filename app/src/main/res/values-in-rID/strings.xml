@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Crypto Tracker/Converter</string>
+    <string name="click_text">MULAI</string>
+    <string name="admob_interstetial_ad" translatable="false">ca-app-pub-3517746418699749/8344708392</string>
+
+    <string name="retriving">"Mengambil Harga Exchange Terbaru"</string>
+    <string name="waitt">Mohon tunggu....</string>
+    <string name="exitApplication">Aplikasi Keluar?</string>
+    <string name="exit">Keluar</string>
+    <string name="swipe_down">Gesek ke bawah untuk Segarkan</string>
+    <string name="no">Tidak</string>
+    <string name="no_connection_found">Tidak Ada Koneksi Ditemukan</string>
+    <string name="your_connection_to_the_wireless_network_is_turned_off_restore_your_connections_and_swipe_down_to_refresh">Koneksi Anda ke jaringan nirkabel dimatikan. Pulihkan koneksi Anda dan geser ke bawah untuk menyegarkan</string>
+    <string name="btc_usd" translatable="false">BTC - USD</string>
+    <string name="just_now">Baru saja</string>
+    <string name="eth_usd" translatable="false">ETH - USD</string>
+    <string name="share">Bagikan</string>
+    <string name="exit_app">Keluar dari Aplikasi</string>
+    <string name="bitcoin_ethereum_news">Berita Bitcoin / Ethereum</string>
+    <string name="convert">Mengubah</string>
+    <string name="from">Dari</string>
+    <string name="to">Untuk</string>
+
+
+    <string name="retryy">Mencoba kembali</string>
+</resources>

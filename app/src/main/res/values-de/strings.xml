@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admob_interstetial_ad" translatable="false">ca-app-pub-3517746418699749/8344708392</string>
+
+    <string name="waitt">Bitte warte ....</string>
+    <string name="app_name">Crypto Tracker/Converter</string>
+    <string name="click_text">Anfang</string>
+    <string name="retriving">Abrufen der letzten -Börsenkurse</string>
+    <string name="exitApplication">Beenden Sie die App</string>
+    <string name="exit">Beenden Sie die App</string>
+    <string name="just_now">Gerade jetzt</string>
+    <string name="share">Aktie</string>
+    <string name="exit_app">Beenden Sie die App</string>
+    <string name="bitcoin_ethereum_news">Bitcoin / Ethereum Nachrichten</string>
+    <string name="convert">Konvertieren</string>
+    <string name="from">Von</string>
+    <string name="to">Zu</string>
+    <string name="no">Keine</string>
+    <string name="your_connection_to_the_wireless_network_is_turned_off_restore_your_connections_and_swipe_down_to_refresh">Bitte schalten sie ihre Daten Netzwerk und aktualisieren</string>
+    <string name="no_connection_found">Keine Verbindung gefunden</string>
+    <string name="swipe_down">Führen sie nach unten zu aktualisieren</string>
+
+    <string name="retryy">Versuchen Sie es erneut</string>
+
+</resources>
